@@ -1,14 +1,26 @@
-layout_spectrum: 0.5681003
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3888889
 color:
   saturation: 0.469534
-  lightness: 0.5340502
   brandStrength: 0.4928315
+  lightness: 0.5340502
   brandColors:
-    - '#0E0D16'
-    - '#5C4A38'
-    - '#ACA3A2'
-    - '#9A6D4C'
-    - '#FBFBFB'
+    - '#192559'
+    - '#777789'
+    - '#ACA6B2'
+    - '#040304'
+    - '#F3FAFF'
   rhythmicContrast: 0.01971326
-typography_spectrum: 0.3888889
+layout_spectrum: 0.5681003
 name: BrightAdvisors
