@@ -1,0 +1,14 @@
+layout_spectrum: 0.5681003
+color:
+  saturation: 0.469534
+  lightness: 0.5340502
+  brandStrength: 0.4928315
+  brandColors:
+    - '#0E0D16'
+    - '#5C4A38'
+    - '#ACA3A2'
+    - '#9A6D4C'
+    - '#FBFBFB'
+  rhythmicContrast: 0.01971326
+typography_spectrum: 0.3888889
+name: BrightAdvisors
